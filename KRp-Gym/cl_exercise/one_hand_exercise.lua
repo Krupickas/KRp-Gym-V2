@@ -115,7 +115,7 @@ for i, coord in ipairs(Config.OneHand) do
                         type = 'error'
                     })
                 end
-            end, 'membership')
+            end, Config.MembershipItem)
                 end,
                 icon = "fas fa-dumbbell",
                 label = _U('one_hand_exercise')

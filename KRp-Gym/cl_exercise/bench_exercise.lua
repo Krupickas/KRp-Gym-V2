@@ -105,7 +105,7 @@ for exerciseIndex, exerciseData in pairs(Config.Bench) do
                         type = 'error'
                     })
                 end
-            end, 'membership')
+            end, Config.MembershipItem)
                 end,
                 icon = "fas fa-scale-balanced",
                 label = _U('bench_exercise')

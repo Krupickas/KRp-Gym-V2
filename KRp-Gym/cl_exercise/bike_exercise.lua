@@ -98,7 +98,7 @@ for exerciseIndex, exerciseData in pairs(Config.Bike) do
                                 type = 'error'
                             })
                         end
-                    end, 'membership')
+                    end, Config.MembershipItem)
                 end,
                 icon = "fas fa-bicycle",
                 label = _U('bike_exercise')

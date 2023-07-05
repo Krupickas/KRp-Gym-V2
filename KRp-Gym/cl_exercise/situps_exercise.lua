@@ -73,7 +73,7 @@ for exerciseIndex, exerciseData in pairs(Config.Situps) do
                                 type = 'error'
                             })
                         end
-                    end, 'membership')
+                    end, Config.MembershipItem)
                 end,
                 icon = "fas fa-person",
                 label = _U('situps_exercise')

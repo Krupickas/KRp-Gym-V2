@@ -102,7 +102,7 @@ for i, coord in ipairs(Config.Muscleweight) do
                                 type = 'error'
                             })
                         end
-                    end, 'membership')
+                    end, Config.MembershipItem)
                 end,
                 icon = "fas fa-child-reaching",
                 label = _U('free_weight_exercise')

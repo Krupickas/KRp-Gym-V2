@@ -80,7 +80,7 @@ for exerciseIndex, exerciseData in pairs(Config.Chinups) do
                                 type = 'error'
                             })
                         end
-                    end, 'membership')
+                    end, Config.MembershipItem)
                 end,
                 icon = "fas fa-litecoin-sign",
                 label = _U('chins_exercise')
