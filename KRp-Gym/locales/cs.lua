@@ -15,7 +15,7 @@
       ['rent_bike'] = 'Vypujčit kolo',
 
       --NOTIFY
-      ['you_had_good_exercise'] = 'Měl jsi dobré cvičení',
+      ['you_had_good_exericise'] = 'Měl jsi dobré cvičení',
       ['you_had_bad_exericise'] = 'Měl jsi špatné cvičení',
       ['catching_breath'] = 'lapaš po dechu',
       ['u_dont_have_membership'] = 'Ke cvičení potřebujete členství',
